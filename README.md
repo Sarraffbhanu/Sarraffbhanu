@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/d8LMk2N.png" width="600" alt="Ghost Hacker Banner" />
+  <img src="file_00000000ece861f69ceefac5129dbf08.png" width="600" alt="Ghost Hacker Banner" />
 </p>
 
 > “The quieter you become, the more you are able to hear.”  
